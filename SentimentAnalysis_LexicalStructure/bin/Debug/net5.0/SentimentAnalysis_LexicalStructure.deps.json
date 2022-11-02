@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SentimentAnalysis_LexicalStructure/1.0.0": {
+        "runtime": {
+          "SentimentAnalysis_LexicalStructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SentimentAnalysis_LexicalStructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
