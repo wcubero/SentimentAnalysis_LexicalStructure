@@ -8,9 +8,7 @@ namespace SentimentAnalysis_LexicalStructure
     {
         static void Main(string[] args)
         {
-            string messagetotest = @"
-hola si estoy interesado
-";
+            string messagetotest = @"Muchas gracias pero ya tengo un plan";
 
             string[] positives = File.ReadAllLines("positive_words_es.txt");
             string[] negatives = File.ReadAllLines("negative_words_es.txt");
