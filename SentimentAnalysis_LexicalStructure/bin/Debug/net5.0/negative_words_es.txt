@@ -7,3 +7,5 @@ mi
 numero
 número
 ahora
+ya
+tengo
